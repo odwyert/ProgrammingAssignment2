@@ -2,7 +2,6 @@
 ## the cached inverse or computes the inverse if the object is null or the 
 ## matrix has changed
 
-
 ## This function creates a special "matrix" object that can cache its inverse.
 
 
